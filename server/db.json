@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "alpana gupta",
+      "mobile": "8368977728",
+      "email": "alpana@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "ashish pathak",
+      "mobile": "9625663662",
+      "email": "ashish@gmail.com",
+      "password": "67890000",
+      "id": 2
+    },
+    {
+      "name": "kamla gupta",
+      "mobile": "123454655",
+      "email": "kamla@gmail.cin",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "shyam sunder gupta",
+      "mobile": "678978998",
+      "email": "shyam@yahoo.on",
+      "password": "7890",
+      "id": 6
+    },
+    {
+      "name": "ashishhh",
+      "mobile": "787879879",
+      "email": "jj@gmail.com",
+      "password": "789099",
+      "id": 7
+    },
+    {
+      "name": "ashishhh",
+      "mobile": "787879879",
+      "email": "jj@gmail.com",
+      "password": "789099",
+      "id": 8
+    },
+    {
+      "name": "opuiu",
+      "mobile": "787879879",
+      "email": "jj@gmail.com",
+      "password": "789099",
+      "id": 9
+    }
+  ]
+}
